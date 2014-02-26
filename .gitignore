@@ -1,4 +1,5 @@
-*.py[cod]
+# Emacs copies
+*.*~
 
 # C extensions
 *.so
@@ -30,7 +31,5 @@ nosetests.xml
 # Translations
 *.mo
 
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
+# Python
+*.pyc
